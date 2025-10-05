@@ -1,4 +1,4 @@
-Paranox 2.0 - Intelligent Expense Management Dashboard
+PARANOX 2.0 - Intelligent Expense Management Dashboard
 Paranox 2.0 is a modern, single-page web application designed for intuitive expense tracking, submission, and management. It provides a clean, data-rich dashboard for users to monitor spending and a streamlined workflow for managers to approve expenses, all powered by an intelligent backend designed to automatically flag non-compliant submissions.
 
 This project is currently a fully interactive frontend prototype built with HTML, Tailwind CSS, and JavaScript.
